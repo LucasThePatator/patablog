@@ -1,6 +1,6 @@
 +++
 title = "Pata's Blog"
-description = "The vlog of Patator"
+description = "The blog of Patator"
 sort_by = "date"
 paginate_by = 4
 +++

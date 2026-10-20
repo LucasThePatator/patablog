@@ -1,18 +1,12 @@
-# The URL the site will be built for
 base_url = "https://lucasthepatator.github.io/patablog"
 theme = "zola-quiet"
-
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-
 title="Pata's Blog"
+description="The blog of Patator"
 
 taxonomies = [
-    { name = "topic", feed = true},
-    { name = "format", feed = true},
+   { name = "tags", paginate_by = 20, feed = true },
 ]
 
 [markdown]

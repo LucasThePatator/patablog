@@ -2,8 +2,7 @@
 title = "KPop Demon Hunters"
 date = 2026-10-20
 [taxonomies]
-topic=["KPop"]
-format=["Review", "Article"]
+tags=["KPop", "Review", "Article"]
 +++
 
 *Here's a review I wrote a while back about the animated movie KPop Demon Hunters. You need to know that I have been involved in KPop fandom for more than 10 years, originally starting around 2011 with Girl's Generation and other girl groups from this era. These days I'm a lot less involved than I used to be. I still like the output of a few groups like [NMIXX](https://www.youtube.com/watch?v=7UecFm_bSTU).*
@@ -12,6 +11,9 @@ format=["Review", "Article"]
 
 The movie has clearly not been made by people completely outside of the industry trying to make a quick buck on a subculture they have no love or care for. A good part is from the industry itself. That is very evident especially with the music making team who are kpop producers. It's also a nice touch to bring actual idols (Twice) to record one the OSTs. The movie is also completely embedded in Korean culture. the fantastical elements are straight from korean folklore. The representation of the city of Seoul is whimsical and so tempting. It is of course a very sterile point of view on the city but it sells it very well and it's incredibly beautiful. It's really nice to see well known places so well represented. The fantastical elements are a great way to have a plot without focussing too much on the - expectedly superfical - kpop industry. 
 The movie is just beautiful and funny. The production quality is extremely high and the writing is very high quality. It is clearly not mere exploitation.
+
+<img src="kpop_demon_hunters.png" style="float: left; width: 300px; margin: 0 1rem 1rem 0;"/>
+
 
 The kpop industry in the movie is barely represented. It's explicitely not a movie about the industry itself; it is definitely a movie about idols. One of the main themes of the movie is about how one of the main character has to hide her true self from everyone including her band mates. While it could seem a bit one the nose, I think it is a very good idea to have one of the major plot driving elements of the story be one that is very prominent in the life of actual idols. And even further than that, they all have to hide that they are daemon hunters. There is a very interesting scene at the end of the movie that I believed touched on something interesting theme wise. The main character is told, in a time of crisis, even when she's isolated from her bandmates and discovered, to keep hiding her true self, that they will find a solution. Interestingly her mentor is a former idol herself. The slight hint at the overall cultural issue was interesting I thought. But it is not a story about the kpop industry, it's still very much a story about idols.
 
