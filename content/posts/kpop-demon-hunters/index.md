@@ -1,6 +1,7 @@
 +++
 title = "KPop Demon Hunters"
 date = 2026-10-20
+
 [taxonomies]
 tags=["KPop", "Review", "Article"]
 +++
@@ -9,12 +10,18 @@ tags=["KPop", "Review", "Article"]
 
 ---
 
+## A movie by idols
+
 The movie has clearly not been made by people completely outside of the industry trying to make a quick buck on a subculture they have no love or care for. A good part is from the industry itself. That is very evident especially with the music making team who are kpop producers. It's also a nice touch to bring actual idols (Twice) to record one the OSTs. The movie is also completely embedded in Korean culture. the fantastical elements are straight from korean folklore. The representation of the city of Seoul is whimsical and so tempting. It is of course a very sterile point of view on the city but it sells it very well and it's incredibly beautiful. It's really nice to see well known places so well represented. The fantastical elements are a great way to have a plot without focussing too much on the - expectedly superfical - kpop industry. 
 The movie is just beautiful and funny. The production quality is extremely high and the writing is very high quality. It is clearly not mere exploitation.
+
+## A movie about idols
 
 <img src="kpop_demon_hunters.png" style="float: left; width: 300px; margin: 0 1rem 1rem 0;"/>
 
 
 The kpop industry in the movie is barely represented. It's explicitely not a movie about the industry itself; it is definitely a movie about idols. One of the main themes of the movie is about how one of the main character has to hide her true self from everyone including her band mates. While it could seem a bit one the nose, I think it is a very good idea to have one of the major plot driving elements of the story be one that is very prominent in the life of actual idols. And even further than that, they all have to hide that they are daemon hunters. There is a very interesting scene at the end of the movie that I believed touched on something interesting theme wise. The main character is told, in a time of crisis, even when she's isolated from her bandmates and discovered, to keep hiding her true self, that they will find a solution. Interestingly her mentor is a former idol herself. The slight hint at the overall cultural issue was interesting I thought. But it is not a story about the kpop industry, it's still very much a story about idols.
+
+## A movie who loves idols
 
 The film is firmly on the side of the idols themselves and they are the only point of view that's defensible in this entire industry. The idols protagonists are portrayed as having a fantastical power to protect the world from demons. This is also driving a lot of the story but they keep being portrayed as performers first and foremost. They thrive on interacting with fans and being on stage while at the same time the fans are often portrayed as dumb and one dimensional in the majority of the movie. There's even the portrayal of a litteral zombified mass of fans. Coming from the rival boy group there is a very clear satire of the mandatory idol package (Aegyo, variety show, ...) as being a façade to literaly suck your soul. So yes, there is sometimes a point driven with a jackhammer. And yet, there is a portrayal of the female idols as just wanting to provide joy. And while there is a zombified mass at some point, the ending scene shows three young fans trading photocards and having huge smile on their faces and I thought, and this gives the protagonists the drive to have a comeback. Well yes, this is also what kpop is about, making community around it, sharing the joy. And I think this movie has understood a lot of what makes all of this something meaningful. There is something very human still, for us, and for the people who strive to create that joy on stage. It's beautiful to see a movie portray that.

@@ -17,3 +17,7 @@ theme = "catppuccin-mocha"
 [extra]
 github="lucasthepatator"
 author="lucasthepatator"
+ascii_signature = """
+patablog
+"""
+linkedin="lucas-marti-99a73028"
